@@ -14,5 +14,5 @@ tox
 numpy
 pandas
 joblib
-
+scikit-learn
 
