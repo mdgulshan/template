@@ -44,3 +44,4 @@ jobs:
     - name: Pushing docker image
       run: |
         docker push ${{secrets.DOCKER_USERNAME}}/churnmodel
+        
